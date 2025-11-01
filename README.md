@@ -10,8 +10,8 @@ The goal is to help the dealership improve sales strategy, identify top-performi
 ---
 
 ##  Executive Summary
-The dealership faced challenges in understanding which regions, dealers, and car brands were contributing the most to overall sales.  
-Using Excel’s **data analysis features**, this project aimed to transform raw car sales data into meaningful business insights.
+The dataset consisted of 23,909 sales records, covering multiple car companies, dealers, and customer details such as income, price, transmission type, and body style.
+Using Excel’s data analysis tools, the project transformed this raw dataset into valuable business insights through pivot tables, formulas, and dashboards.
 
 ### **Key Highlights**
 - Analyzed sales by region, company, and dealer.  
